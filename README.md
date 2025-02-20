@@ -33,3 +33,7 @@ GitHub InfoCards is a lightweight web application that fetches and displays GitH
 ## 🔗 API Reference
 - [GitHub API Documentation](https://docs.github.com/en/rest)
 
+## ⚠️ Note  
+If you see **"undefined"** or some information is missing in the cards, it might be due to the **GitHub API rate limit** being exceeded.  
+To avoid this, try again later or use a personal GitHub API token for increased request limits.
+
