@@ -23,7 +23,7 @@ GitHub InfoCards is a lightweight web application that fetches and displays GitH
 5. Clicking "See More" reveals additional details.
 
 ## 📷 Preview
-![GitHub InfoCards Preview](https://via.placeholder.com/600x300?text=GitHub+InfoCards+Preview)
+![GitHub InfoCards Preview](https://github.com/sumitti/Github-Infocards/blob/main/preview%20image.png?raw=true)
 
 ## 💡 Future Enhancements
 - Add a search bar for dynamic user lookups.
